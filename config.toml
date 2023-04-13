@@ -1,5 +1,5 @@
-baseURL = 'http://localhost/'
+baseURL = 'personalBlog'
 languageCode = 'en-us'
 title = 'Personal Blog'
 
-theme = 'hugo-theme-relearn'
+theme = 'relearn2'
